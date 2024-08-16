@@ -61,12 +61,12 @@ The project is structured around a `GrafoDP` class that represents the train net
 The program provides detailed output showing the graph structure and the results of path-finding algorithms. Here are two example outputs:
 
 ### Graph Structure
-![Graph Structure Output](images/Example.jpg)
+![Graph Structure Output](images/Locations.jpg)
 
 This image shows the structure of the graph, detailing each vertex (city) with its connections (adjacent cities) and the associated travel times.
 
 ### Path Finding Results
-![Path Finding Results](images/Example2.jpg)
+![Path Finding Results](images/Output.jpg)
 
 This image demonstrates the output for a specific route query:
 - Origin: A Coruña (Vertex 0)
