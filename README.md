@@ -83,13 +83,6 @@ Both Dijkstra's algorithm and the modified BFS algorithm found the same optimal 
 
 The train network visualization (FRED-Trains.jpg) helps in understanding the structure of the network, including the three lines (A, B, and C) and the travel times between stations.
 
-## Future Enhancements
-
-1. Implement a graphical user interface (GUI) for easier interaction.
-2. Add real-time updates for train schedules and delays.
-3. Incorporate multi-criteria optimization (e.g., considering both time and cost).
-4. Extend the system to handle larger networks and additional constraints.
-
 ## Contributing
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
