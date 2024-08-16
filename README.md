@@ -1,4 +1,3 @@
-# Graph-based Train Route Optimizer
 
 # Graph-based Train Route Optimizer
 
