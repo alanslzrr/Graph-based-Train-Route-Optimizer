@@ -1,5 +1,13 @@
 # Graph-based Train Route Optimizer
 
+# Graph-based Train Route Optimizer
+
+[![C++ Version](https://img.shields.io/badge/C%2B%2B-11-blue.svg)](https://en.cppreference.com/w/cpp/11)
+[![STL](https://img.shields.io/badge/STL-C%2B%2B-green.svg)](https://en.cppreference.com/w/cpp/container)
+
+## Table of Contents
+...
+
 ## Project Overview
 
 This project implements a graph-based train route optimizer for the Xunta de Galicia's mobility project in the western region of Spain. The system models the train network as a weighted, undirected graph where nodes represent cities/towns and edges represent train connections with their associated travel times.
