@@ -1,19 +1,5 @@
 # Graph-based Train Route Optimizer
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Problem Statement](#problem-statement)
-3. [Technologies Used](#technologies-used)
-4. [Project Structure](#project-structure)
-5. [Key Features](#key-features)
-6. [Algorithms Implemented](#algorithms-implemented)
-7. [How to Use](#how-to-use)
-8. [Sample Output](#sample-output)
-9. [Visualization](#visualization)
-10. [Future Enhancements](#future-enhancements)
-11. [Contributing](#contributing)
-12. [License](#license)
-
 ## Project Overview
 
 This project implements a graph-based train route optimizer for the Xunta de Galicia's mobility project in the western region of Spain. The system models the train network as a weighted, undirected graph where nodes represent cities/towns and edges represent train connections with their associated travel times.
