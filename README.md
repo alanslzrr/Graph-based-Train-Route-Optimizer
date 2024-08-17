@@ -4,8 +4,6 @@
 [![C++ Version](https://img.shields.io/badge/C%2B%2B-11-blue.svg)](https://en.cppreference.com/w/cpp/11)
 [![STL](https://img.shields.io/badge/STL-C%2B%2B-green.svg)](https://en.cppreference.com/w/cpp/container)
 
-## Table of Contents
-...
 
 ## Project Overview
 
